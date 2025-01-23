@@ -4,7 +4,7 @@ Submitted by: **Thomas Garcia**
 
 **IOS101-Prework** is an app that randomly changes the application's background color when a button is pressed. 
 
-Time spent: **5∆** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
@@ -28,18 +28,18 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 App: Spotify
 
--- **Daily Mixes**: Playlists created based on what you listen allows you to find music that you might've not known existed before.
--- **Listening Between Devices**: Switching between listening to an iPhone and Mac is really convenient.
+- **Daily Mixes**: Playlists created based on what you listen allows you to find music that you might've not known existed before.
+- **Listening Between Devices**: Switching between listening to an iPhone and Mac is really convenient.
 
 App: Reddit 
 
--- **Subreddits**: Allows you to hand pick the type of content you want to see.
--- **Upvote/Downvote System**: Seeing how many people dislike or like a certain post or comment is pretty neat because it shows transparancy of how people feel about cerrtain content.
+- **Subreddits**: Allows you to hand pick the type of content you want to see.
+- **Upvote/Downvote System**: Seeing how many people dislike or like a certain post or comment is pretty neat because it shows transparancy of how people feel about cerrtain content.
 
 App: Discord
 
--- **Custom Servers**: Discord allows you to customize you want you're server to operate and it helps give your server a certain atmosphere.
--- **Screen Share**: The ability to share screen and hear audio from the shared screen is amazing to use with freinds.
+- **Custom Servers**: Discord allows you to customize you want you're server to operate and it helps give your server a certain atmosphere.
+- **Screen Share**: The ability to share screen and hear audio from the shared screen is amazing to use with freinds.
 
 ## Notes
 
