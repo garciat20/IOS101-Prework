@@ -1,4 +1,4 @@
-# Prework - *IOS101-Prework*
+# Prework - *IOS101*
 
 Submitted by: **Thomas Garcia**
 
