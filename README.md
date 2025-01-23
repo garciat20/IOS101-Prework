@@ -27,10 +27,12 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 ## App Brainstorming (Step 4)
 
 App: Spotify
+
 -- **Daily Mixes**: Playlists created based on what you listen allows you to find music that you might've not known existed before.
 -- **Listening Between Devices**: Switching between listening to an iPhone and Mac is really convenient.
 
 App: Reddit 
+
 -- **Subreddits**: Allows you to hand pick the type of content you want to see.
 -- **Upvote/Downvote System**: Seeing how many people dislike or like a certain post or comment is pretty neat because it shows transparancy of how people feel about cerrtain content.
 
