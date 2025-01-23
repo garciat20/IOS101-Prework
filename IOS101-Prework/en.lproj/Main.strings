@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "Rochester Institute of Technology"; ObjectID = "QN4-yb-GyL"; */
+"QN4-yb-GyL.text" = "Rochester Institute of Technology";
+
+/* Class = "UILabel"; text = "Thomas Garcia"; ObjectID = "hdk-vu-ZeX"; */
+"hdk-vu-ZeX.text" = "Thomas Garcia";
+
+/* Class = "UILabel"; text = "Software Engineer"; ObjectID = "oKG-z8-AOq"; */
+"oKG-z8-AOq.text" = "Software Engineer";
+
+/* Class = "UIButton"; configuration.title = "Change"; ObjectID = "qPX-rN-Kbx"; */
+"qPX-rN-Kbx.configuration.title" = "Change";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "qPX-rN-Kbx"; */
+"qPX-rN-Kbx.normalTitle" = "Button";
